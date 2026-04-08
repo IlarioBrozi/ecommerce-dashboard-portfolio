@@ -57,6 +57,7 @@ This project analyzes sales data using Power BI to uncover trends, customer beha
   -Power BI
   -Excel / CSV
   -Data Cleaning
+  
 -**How to Use**
   -Download the .pbix file
   -Open in Power BI Desktop
