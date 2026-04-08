@@ -48,20 +48,20 @@ This project analyzes sales data using Power BI to uncover trends, customer beha
 - **Trends**
   -Monthly Sales (Line Chart)
   -Category Performance (Area Chart)
- -**Forecasting**
+- **Forecasting**
   -Used Power BI’s built-in forecasting feature to predict next month’s sales.
 
 **Dashboard Preview**
 
--**Tools Used**
-  -Power BI
-  -Excel / CSV
-  -Data Cleaning
+- **Tools Used**
+    -Power BI
+    -Excel / CSV
+    -Data Cleaning
   
--**How to Use**
-  -Download the .pbix file
-  -Open in Power BI Desktop
-  -Refresh data if needed
+- **How to Use**
+    -Download the .pbix file
+    -Open in Power BI Desktop
+    -Refresh data if needed
 
 Feel free to connect with me!
     
