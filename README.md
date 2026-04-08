@@ -65,4 +65,5 @@ This project analyzes sales data using Power BI to uncover trends, customer beha
 
 Feel free to connect with me!
     
-  <img width="654" height="366" alt="Screenshot 2026-04-08 ecommerce dashboard" src="https://github.com/user-attachments/assets/1be41b0d-cc95-4389-ac45-28b5eb9f4c58" />
+<img width="654" height="368" alt="Screenshot 2026-04-08 ecommerce dashboard" src="https://github.com/user-attachments/assets/fd54b066-4ce4-42ea-a69f-38967f6b570d" />
+
